@@ -1,0 +1,1 @@
+Switch RaspiLED{ gpio="pin:4" }

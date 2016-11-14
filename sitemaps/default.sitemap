@@ -1,0 +1,7 @@
+sitemap home label="Casa"
+{
+ Frame label="Rasperry Pi GPIO"
+ {
+   Switch item=RaspiLED
+ }
+}
